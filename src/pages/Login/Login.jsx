@@ -14,7 +14,7 @@ const Login = () => {
         <button type='submit'>Sign Up</button>
         <div className="login-term">
             <input type="checkbox" />
-            <p>Agree to the terms of use & privacy Policy.</p>
+            <p>Agree to the terms of Use & privacy Policy.</p>
         </div>
         <div className="login-forgot">
             <p className="login-toggle">Already have an Account <span>Click here</span></p>
